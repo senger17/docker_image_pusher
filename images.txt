@@ -1,1 +1,7 @@
 deluan/navidrome
+linuxserver/emby
+gdy666/lucky
+rloomans/calibre-server
+advplyr/audiobookshelf
+revenz/fenrus
+itushan/mtab
