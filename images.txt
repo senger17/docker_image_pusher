@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+kasmweb/nginx:1.25.3
