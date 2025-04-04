@@ -1,1 +1,1 @@
-deluan/navidrome:pr-3920
+deluan/navidrome:latest
